@@ -2,4 +2,4 @@ This program scans the [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) web
 
 Publication:
 
-Strachanski F, Petrov D, Schmidbauer T, Wendzel S (2024) A Comprehensive Pattern-based Overview of Stegomalware. In: Proc. 19th International Conference on Availability, Reliability and Security (ARES 2024). DOI: [10.1145/3664476.3670886](https://doi.org/10.1145/3664476.3670886)
+Strachanski F, Petrov D, Schmidbauer T, Wendzel S (2024) _A Comprehensive Pattern-based Overview of Stegomalware_. In: Proc. 19th International Conference on Availability, Reliability and Security (ARES 2024). DOI: [10.1145/3664476.3670886](https://doi.org/10.1145/3664476.3670886)
